@@ -32,7 +32,7 @@ def scrap_poznan():
         }
 
         change = {
-            "qVL": ["Very low", 0],
+            "qVL": ["Very low", 5],
             "qL": ["Low", 20],
             "qM": ["Medium", 50],
             "qF": ["Full", 100],
@@ -88,7 +88,7 @@ def scrap_warsaw():
         plasma = blood.copy()
 
         change = {
-            "height: 5%;": ["Very low", 0],
+            "height: 5%;": ["Very low", 5],
             "height: 20%;": ["Low", 20],
             "height: 50%;": ["Medium", 50],
             "height: 100%;": ["Full", 100],
@@ -110,7 +110,7 @@ def scrap_warsaw():
                 csv_writer.writerow([k, v[0], v[1], "blood", date])
 
             for k, v in plasma.items():
-                csv_writer.writerow([k, v[0], v[1], "plasma", date])
+                csv_writer.writerow([k, v[0], v[1], "platelets", date])
 
 
 if __name__ == "__main__":

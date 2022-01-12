@@ -7,14 +7,14 @@ B Rh+,Full,100,blood,03-01-2022
 B Rh-,Full,100,blood,03-01-2022
 AB Rh+,Full,100,blood,03-01-2022
 AB Rh-,Full,100,blood,03-01-2022
-0 Rh+,Full,100,plasma,03-01-2022
-0 Rh-,Low,20,plasma,03-01-2022
-A Rh+,Very low,0,plasma,03-01-2022
-A Rh-,Very low,0,plasma,03-01-2022
-B Rh+,Medium,50,plasma,03-01-2022
-B Rh-,Full,100,plasma,03-01-2022
-AB Rh+,Medium,50,plasma,03-01-2022
-AB Rh-,Full,100,plasma,03-01-2022
+0 Rh+,Full,100,platelets,03-01-2022
+0 Rh-,Low,20,platelets,03-01-2022
+A Rh+,Very low,5,platelets,03-01-2022
+A Rh-,Very low,5,platelets,03-01-2022
+B Rh+,Medium,50,platelets,03-01-2022
+B Rh-,Full,100,platelets,03-01-2022
+AB Rh+,Medium,50,platelets,03-01-2022
+AB Rh-,Full,100,platelets,03-01-2022
 0 Rh+,Full,100,blood,04-01-2022
 0 Rh-,Full,100,blood,04-01-2022
 A Rh+,Full,100,blood,04-01-2022
@@ -23,14 +23,14 @@ B Rh+,Full,100,blood,04-01-2022
 B Rh-,Full,100,blood,04-01-2022
 AB Rh+,Full,100,blood,04-01-2022
 AB Rh-,Full,100,blood,04-01-2022
-0 Rh+,Full,100,plasma,04-01-2022
-0 Rh-,Medium,50,plasma,04-01-2022
-A Rh+,Low,20,plasma,04-01-2022
-A Rh-,Low,20,plasma,04-01-2022
-B Rh+,Low,20,plasma,04-01-2022
-B Rh-,Full,100,plasma,04-01-2022
-AB Rh+,Medium,50,plasma,04-01-2022
-AB Rh-,Full,100,plasma,04-01-2022
+0 Rh+,Full,100,platelets,04-01-2022
+0 Rh-,Medium,50,platelets,04-01-2022
+A Rh+,Low,20,platelets,04-01-2022
+A Rh-,Low,20,platelets,04-01-2022
+B Rh+,Low,20,platelets,04-01-2022
+B Rh-,Full,100,platelets,04-01-2022
+AB Rh+,Medium,50,platelets,04-01-2022
+AB Rh-,Full,100,platelets,04-01-2022
 0 Rh+,Full,100,blood,05-01-2022
 0 Rh-,Full,100,blood,05-01-2022
 A Rh+,Full,100,blood,05-01-2022
@@ -39,14 +39,14 @@ B Rh+,Full,100,blood,05-01-2022
 B Rh-,Full,100,blood,05-01-2022
 AB Rh+,Full,100,blood,05-01-2022
 AB Rh-,Full,100,blood,05-01-2022
-0 Rh+,Full,100,plasma,05-01-2022
-0 Rh-,Full,100,plasma,05-01-2022
-A Rh+,Very low,0,plasma,05-01-2022
-A Rh-,Very low,0,plasma,05-01-2022
-B Rh+,Low,20,plasma,05-01-2022
-B Rh-,Medium,50,plasma,05-01-2022
-AB Rh+,Medium,50,plasma,05-01-2022
-AB Rh-,Low,20,plasma,05-01-2022
+0 Rh+,Full,100,platelets,05-01-2022
+0 Rh-,Full,100,platelets,05-01-2022
+A Rh+,Very low,5,platelets,05-01-2022
+A Rh-,Very low,5,platelets,05-01-2022
+B Rh+,Low,20,platelets,05-01-2022
+B Rh-,Medium,50,platelets,05-01-2022
+AB Rh+,Medium,50,platelets,05-01-2022
+AB Rh-,Low,20,platelets,05-01-2022
 0 Rh+,Full,100,blood,07-01-2022
 0 Rh-,Full,100,blood,07-01-2022
 A Rh+,Full,100,blood,07-01-2022
@@ -55,14 +55,14 @@ B Rh+,Medium,50,blood,07-01-2022
 B Rh-,Full,100,blood,07-01-2022
 AB Rh+,Full,100,blood,07-01-2022
 AB Rh-,Full,100,blood,07-01-2022
-0 Rh+,Medium,50,plasma,07-01-2022
-0 Rh-,Medium,50,plasma,07-01-2022
-A Rh+,Very low,0,plasma,07-01-2022
-A Rh-,Very low,0,plasma,07-01-2022
-B Rh+,Very low,0,plasma,07-01-2022
-B Rh-,Very low,0,plasma,07-01-2022
-AB Rh+,Medium,50,plasma,07-01-2022
-AB Rh-,Low,20,plasma,07-01-2022
+0 Rh+,Medium,50,platelets,07-01-2022
+0 Rh-,Medium,50,platelets,07-01-2022
+A Rh+,Very low,5,platelets,07-01-2022
+A Rh-,Very low,5,platelets,07-01-2022
+B Rh+,Very low,5,platelets,07-01-2022
+B Rh-,Very low,5,platelets,07-01-2022
+AB Rh+,Medium,50,platelets,07-01-2022
+AB Rh-,Low,20,platelets,07-01-2022
 0 Rh+,Full,100,blood,10-01-2022
 0 Rh-,Medium,50,blood,10-01-2022
 A Rh+,Full,100,blood,10-01-2022
@@ -71,14 +71,14 @@ B Rh+,Full,100,blood,10-01-2022
 B Rh-,Full,100,blood,10-01-2022
 AB Rh+,Full,100,blood,10-01-2022
 AB Rh-,Full,100,blood,10-01-2022
-0 Rh+,Very low,0,plasma,10-01-2022
-0 Rh-,Medium,50,plasma,10-01-2022
-A Rh+,Very low,0,plasma,10-01-2022
-A Rh-,Very low,0,plasma,10-01-2022
-B Rh+,Very low,0,plasma,10-01-2022
-B Rh-,Very low,0,plasma,10-01-2022
-AB Rh+,Very low,0,plasma,10-01-2022
-AB Rh-,Very low,0,plasma,10-01-2022
+0 Rh+,Very low,5,platelets,10-01-2022
+0 Rh-,Medium,50,platelets,10-01-2022
+A Rh+,Very low,5,platelets,10-01-2022
+A Rh-,Very low,5,platelets,10-01-2022
+B Rh+,Very low,5,platelets,10-01-2022
+B Rh-,Very low,5,platelets,10-01-2022
+AB Rh+,Very low,5,platelets,10-01-2022
+AB Rh-,Very low,5,platelets,10-01-2022
 0 Rh+,Full,100,blood,11-01-2022
 0 Rh-,Medium,50,blood,11-01-2022
 A Rh+,Full,100,blood,11-01-2022
@@ -87,11 +87,11 @@ B Rh+,Full,100,blood,11-01-2022
 B Rh-,Full,100,blood,11-01-2022
 AB Rh+,Full,100,blood,11-01-2022
 AB Rh-,Full,100,blood,11-01-2022
-0 Rh+,Very low,0,plasma,11-01-2022
-0 Rh-,Very low,0,plasma,11-01-2022
-A Rh+,Very low,0,plasma,11-01-2022
-A Rh-,Very low,0,plasma,11-01-2022
-B Rh+,Very low,0,plasma,11-01-2022
-B Rh-,Very low,0,plasma,11-01-2022
-AB Rh+,Very low,0,plasma,11-01-2022
-AB Rh-,Very low,0,plasma,11-01-2022
+0 Rh+,Very low,5,platelets,11-01-2022
+0 Rh-,Very low,5,platelets,11-01-2022
+A Rh+,Very low,5,platelets,11-01-2022
+A Rh-,Very low,5,platelets,11-01-2022
+B Rh+,Very low,5,platelets,11-01-2022
+B Rh-,Very low,5,platelets,11-01-2022
+AB Rh+,Very low,5,platelets,11-01-2022
+AB Rh-,Very low,5,platelets,11-01-2022
