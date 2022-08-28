@@ -8,6 +8,83 @@ import time
 import re
 
 
+def scrap_all():
+    url = "https://krew.info/zapasy/"
+    result = requests.get(url)
+    result = result.content.decode("utf-8")
+    soup = BeautifulSoup(result, "html.parser")
+    date = soup.find(text=re.compile("Aktualizacja stanu:.*"))
+    date = re.findall("\d+.\d+\.\d+", date)
+    date = date[0].replace(".", "-")
+    if date[1] == "-":
+        date = "0" + date
+
+    file = pd.read_csv("data/blood_donation_all.csv")
+
+    df = pd.DataFrame(file.iloc[-1:, :].values)
+    if not df.empty:
+        lastDate = df[4].values[0]
+
+        if lastDate != date:
+
+            blood = {
+                "0 Rh+": "",
+                "0 Rh-": "",
+                "A Rh+": "",
+                "A Rh-": "",
+                "B Rh+": "",
+                "B Rh-": "",
+                "AB Rh+": "",
+                "AB Rh-": "",
+            }
+
+            change = {
+                "img/krew3.png": ["Very low", 5],
+                "img/krew2.png": ["Medium", 50],
+                "img/krew1.png": ["Optimal", 90],
+                "img/krew11.png": ["Full", 100],
+                "img/krew0.png": ["Full", 100],
+            }
+
+            cities = {
+                "Białystok": blood.copy(),
+                "Bydgoszcz": blood.copy(),
+                "Gdańsk": blood.copy(),
+                "Kalisz": blood.copy(),
+                "Katowice": blood.copy(),
+                "Kielce": blood.copy(),
+                "Kraków": blood.copy(),
+                "Lublin": blood.copy(),
+                "Łódź": blood.copy(),
+                "Olsztyn": blood.copy(),
+                "Opole": blood.copy(),
+                "Poznań": blood.copy(),
+                "Racibórz": blood.copy(),
+                "Radom": blood.copy(),
+                "Rzeszów": blood.copy(),
+                "Słupsk": blood.copy(),
+                "Szczecin": blood.copy(),
+                "Wałbrzych": blood.copy(),
+                "Warszawa": blood.copy(),
+                "Wrocław": blood.copy(),
+                "Zielona Góra": blood.copy(),
+            }
+
+            for type in blood.keys():
+                row = soup.find(text=type).parent.parent.parent
+                imgs = row.find_all("img", alt=True)
+                for img in imgs:
+                    cities[img["alt"]][type] = change[img["src"]]
+
+            with open(
+                "data/blood_donation_all.csv", "a", newline="", encoding="utf-8"
+            ) as f:
+                csv_writer = csv.writer(f)
+                for k, v in cities.items():
+                    for k1, v1 in v.items():
+                        csv_writer.writerow([k, k1, v1[0], v1[1], date])
+
+
 def scrap_poznan():
 
     url_poznan = "https://www.rckik.poznan.pl/"
@@ -116,3 +193,4 @@ def scrap_warsaw():
 if __name__ == "__main__":
     scrap_poznan()
     scrap_warsaw()
+    scrap_all()
