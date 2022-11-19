@@ -1,0 +1,38 @@
+1643047883481	geckodriver	INFO	Listening on 127.0.0.1:59919
+1643047883972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53975" "-no-remote" "-profile" "/tmp/rust_mozprofile67Ahzj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1643047884967	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile67Ahzj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53975/devtools/browser/e0c7efea-7794-4dfb-b436-09a9421c393b
+1643047887157	Marionette	INFO	Listening on port 40401
+1643047887199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 1920, MediaDecoderStateMachine #1] WARNING: Decoder=7fcbbae23500 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-BVyW0E/firefox-95.0.1+build2/dom/media/MediaDecoderStateMachine.cpp:3568
+1643645089395	geckodriver	INFO	Listening on 127.0.0.1:57361
+1643645089890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "32999" "-no-remote" "-profile" "/tmp/rust_mozprofileKw6LMo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+[GFX1-]: No GPUs detected via PCI
+1643645090860	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKw6LMo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32999/devtools/browser/e81ea4fe-a945-4bc6-a923-d370f6f62fb5
+1643645092951	Marionette	INFO	Listening on port 37305
+1643645093015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 225, MediaDecoderStateMachine #1] WARNING: Decoder=7f5066232200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-BVyW0E/firefox-95.0.1+build2/dom/media/MediaDecoderStateMachine.cpp:3568
+1668888492239	geckodriver	INFO	Listening on 127.0.0.1:33807
+1668888492732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "55571" "-no-remote" "-profile" "/tmp/rust_mozprofileoka70w"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL initialize failed
+1668888493924	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoka70w/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55571/devtools/browser/7af1c4c4-e795-4aeb-820a-54912a4d6c09
+1668888495827	Marionette	INFO	Listening on port 33685
+1668888495875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 244, MediaDecoderStateMachine #1] WARNING: Decoder=7f89bcf1e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for video/avc: file /build/firefox-BVyW0E/firefox-95.0.1+build2/dom/media/MediaDecoderStateMachine.cpp:3568
