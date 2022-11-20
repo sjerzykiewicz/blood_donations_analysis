@@ -192,5 +192,5 @@ def scrap_warsaw():
 
 if __name__ == "__main__":
     scrap_poznan()
-    scrap_warsaw()
+    # scrap_warsaw()
     scrap_all()
