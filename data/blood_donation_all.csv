@@ -11759,3 +11759,171 @@ Zielona Góra,B Rh+,Full,100,13-12-2022
 Zielona Góra,B Rh-,Very low,5,13-12-2022
 Zielona Góra,AB Rh+,Optimal,90,13-12-2022
 Zielona Góra,AB Rh-,Very low,5,13-12-2022
+Białystok,0 Rh+,Medium,50,14-12-2022
+Białystok,0 Rh-,Very low,5,14-12-2022
+Białystok,A Rh+,Medium,50,14-12-2022
+Białystok,A Rh-,Very low,5,14-12-2022
+Białystok,B Rh+,Optimal,90,14-12-2022
+Białystok,B Rh-,Medium,50,14-12-2022
+Białystok,AB Rh+,Optimal,90,14-12-2022
+Białystok,AB Rh-,Medium,50,14-12-2022
+Bydgoszcz,0 Rh+,Very low,5,14-12-2022
+Bydgoszcz,0 Rh-,Very low,5,14-12-2022
+Bydgoszcz,A Rh+,Very low,5,14-12-2022
+Bydgoszcz,A Rh-,Very low,5,14-12-2022
+Bydgoszcz,B Rh+,Very low,5,14-12-2022
+Bydgoszcz,B Rh-,Medium,50,14-12-2022
+Bydgoszcz,AB Rh+,Medium,50,14-12-2022
+Bydgoszcz,AB Rh-,Very low,5,14-12-2022
+Gdańsk,0 Rh+,Optimal,90,14-12-2022
+Gdańsk,0 Rh-,Very low,5,14-12-2022
+Gdańsk,A Rh+,Optimal,90,14-12-2022
+Gdańsk,A Rh-,Very low,5,14-12-2022
+Gdańsk,B Rh+,Medium,50,14-12-2022
+Gdańsk,B Rh-,Very low,5,14-12-2022
+Gdańsk,AB Rh+,Full,100,14-12-2022
+Gdańsk,AB Rh-,Medium,50,14-12-2022
+Kalisz,0 Rh+,Medium,50,14-12-2022
+Kalisz,0 Rh-,Medium,50,14-12-2022
+Kalisz,A Rh+,Very low,5,14-12-2022
+Kalisz,A Rh-,Medium,50,14-12-2022
+Kalisz,B Rh+,Medium,50,14-12-2022
+Kalisz,B Rh-,Medium,50,14-12-2022
+Kalisz,AB Rh+,Optimal,90,14-12-2022
+Kalisz,AB Rh-,Very low,5,14-12-2022
+Katowice,0 Rh+,Full,100,14-12-2022
+Katowice,0 Rh-,Very low,5,14-12-2022
+Katowice,A Rh+,Medium,50,14-12-2022
+Katowice,A Rh-,Medium,50,14-12-2022
+Katowice,B Rh+,Full,100,14-12-2022
+Katowice,B Rh-,Optimal,90,14-12-2022
+Katowice,AB Rh+,Full,100,14-12-2022
+Katowice,AB Rh-,Very low,5,14-12-2022
+Kielce,0 Rh+,Full,100,14-12-2022
+Kielce,0 Rh-,Very low,5,14-12-2022
+Kielce,A Rh+,Optimal,90,14-12-2022
+Kielce,A Rh-,Very low,5,14-12-2022
+Kielce,B Rh+,Medium,50,14-12-2022
+Kielce,B Rh-,Medium,50,14-12-2022
+Kielce,AB Rh+,Full,100,14-12-2022
+Kielce,AB Rh-,Optimal,90,14-12-2022
+Kraków,0 Rh+,Optimal,90,14-12-2022
+Kraków,0 Rh-,Medium,50,14-12-2022
+Kraków,A Rh+,Optimal,90,14-12-2022
+Kraków,A Rh-,Medium,50,14-12-2022
+Kraków,B Rh+,Medium,50,14-12-2022
+Kraków,B Rh-,Medium,50,14-12-2022
+Kraków,AB Rh+,Full,100,14-12-2022
+Kraków,AB Rh-,Full,100,14-12-2022
+Lublin,0 Rh+,Medium,50,14-12-2022
+Lublin,0 Rh-,Very low,5,14-12-2022
+Lublin,A Rh+,Optimal,90,14-12-2022
+Lublin,A Rh-,Very low,5,14-12-2022
+Lublin,B Rh+,Optimal,90,14-12-2022
+Lublin,B Rh-,Very low,5,14-12-2022
+Lublin,AB Rh+,Full,100,14-12-2022
+Lublin,AB Rh-,Optimal,90,14-12-2022
+Łódź,0 Rh+,Very low,5,14-12-2022
+Łódź,0 Rh-,Very low,5,14-12-2022
+Łódź,A Rh+,Optimal,90,14-12-2022
+Łódź,A Rh-,Very low,5,14-12-2022
+Łódź,B Rh+,Optimal,90,14-12-2022
+Łódź,B Rh-,Very low,5,14-12-2022
+Łódź,AB Rh+,Optimal,90,14-12-2022
+Łódź,AB Rh-,Optimal,90,14-12-2022
+Olsztyn,0 Rh+,Optimal,90,14-12-2022
+Olsztyn,0 Rh-,Very low,5,14-12-2022
+Olsztyn,A Rh+,Optimal,90,14-12-2022
+Olsztyn,A Rh-,Medium,50,14-12-2022
+Olsztyn,B Rh+,Optimal,90,14-12-2022
+Olsztyn,B Rh-,Optimal,90,14-12-2022
+Olsztyn,AB Rh+,Full,100,14-12-2022
+Olsztyn,AB Rh-,Optimal,90,14-12-2022
+Opole,0 Rh+,Medium,50,14-12-2022
+Opole,0 Rh-,Medium,50,14-12-2022
+Opole,A Rh+,Medium,50,14-12-2022
+Opole,A Rh-,Very low,5,14-12-2022
+Opole,B Rh+,Full,100,14-12-2022
+Opole,B Rh-,Very low,5,14-12-2022
+Opole,AB Rh+,Full,100,14-12-2022
+Opole,AB Rh-,Medium,50,14-12-2022
+Poznań,0 Rh+,Very low,5,14-12-2022
+Poznań,0 Rh-,Very low,5,14-12-2022
+Poznań,A Rh+,Very low,5,14-12-2022
+Poznań,A Rh-,Very low,5,14-12-2022
+Poznań,B Rh+,Optimal,90,14-12-2022
+Poznań,B Rh-,Very low,5,14-12-2022
+Poznań,AB Rh+,Optimal,90,14-12-2022
+Poznań,AB Rh-,Optimal,90,14-12-2022
+Racibórz,0 Rh+,Medium,50,14-12-2022
+Racibórz,0 Rh-,Very low,5,14-12-2022
+Racibórz,A Rh+,Very low,5,14-12-2022
+Racibórz,A Rh-,Medium,50,14-12-2022
+Racibórz,B Rh+,Optimal,90,14-12-2022
+Racibórz,B Rh-,Very low,5,14-12-2022
+Racibórz,AB Rh+,Optimal,90,14-12-2022
+Racibórz,AB Rh-,Very low,5,14-12-2022
+Radom,0 Rh+,Very low,5,14-12-2022
+Radom,0 Rh-,Very low,5,14-12-2022
+Radom,A Rh+,Medium,50,14-12-2022
+Radom,A Rh-,Very low,5,14-12-2022
+Radom,B Rh+,Full,100,14-12-2022
+Radom,B Rh-,Very low,5,14-12-2022
+Radom,AB Rh+,Full,100,14-12-2022
+Radom,AB Rh-,Very low,5,14-12-2022
+Rzeszów,0 Rh+,Very low,5,14-12-2022
+Rzeszów,0 Rh-,Very low,5,14-12-2022
+Rzeszów,A Rh+,Medium,50,14-12-2022
+Rzeszów,A Rh-,Medium,50,14-12-2022
+Rzeszów,B Rh+,Optimal,90,14-12-2022
+Rzeszów,B Rh-,Medium,50,14-12-2022
+Rzeszów,AB Rh+,Optimal,90,14-12-2022
+Rzeszów,AB Rh-,Optimal,90,14-12-2022
+Słupsk,0 Rh+,Very low,5,14-12-2022
+Słupsk,0 Rh-,Very low,5,14-12-2022
+Słupsk,A Rh+,Very low,5,14-12-2022
+Słupsk,A Rh-,Very low,5,14-12-2022
+Słupsk,B Rh+,Optimal,90,14-12-2022
+Słupsk,B Rh-,Medium,50,14-12-2022
+Słupsk,AB Rh+,Full,100,14-12-2022
+Słupsk,AB Rh-,Medium,50,14-12-2022
+Szczecin,0 Rh+,Very low,5,14-12-2022
+Szczecin,0 Rh-,Very low,5,14-12-2022
+Szczecin,A Rh+,Very low,5,14-12-2022
+Szczecin,A Rh-,Very low,5,14-12-2022
+Szczecin,B Rh+,Optimal,90,14-12-2022
+Szczecin,B Rh-,Very low,5,14-12-2022
+Szczecin,AB Rh+,Optimal,90,14-12-2022
+Szczecin,AB Rh-,Very low,5,14-12-2022
+Wałbrzych,0 Rh+,Very low,5,14-12-2022
+Wałbrzych,0 Rh-,Medium,50,14-12-2022
+Wałbrzych,A Rh+,Medium,50,14-12-2022
+Wałbrzych,A Rh-,Very low,5,14-12-2022
+Wałbrzych,B Rh+,Very low,5,14-12-2022
+Wałbrzych,B Rh-,Very low,5,14-12-2022
+Wałbrzych,AB Rh+,Full,100,14-12-2022
+Wałbrzych,AB Rh-,Optimal,90,14-12-2022
+Warszawa,0 Rh+,Medium,50,14-12-2022
+Warszawa,0 Rh-,Very low,5,14-12-2022
+Warszawa,A Rh+,Medium,50,14-12-2022
+Warszawa,A Rh-,Medium,50,14-12-2022
+Warszawa,B Rh+,Optimal,90,14-12-2022
+Warszawa,B Rh-,Very low,5,14-12-2022
+Warszawa,AB Rh+,Optimal,90,14-12-2022
+Warszawa,AB Rh-,Medium,50,14-12-2022
+Wrocław,0 Rh+,Very low,5,14-12-2022
+Wrocław,0 Rh-,Very low,5,14-12-2022
+Wrocław,A Rh+,Full,100,14-12-2022
+Wrocław,A Rh-,Very low,5,14-12-2022
+Wrocław,B Rh+,Full,100,14-12-2022
+Wrocław,B Rh-,Very low,5,14-12-2022
+Wrocław,AB Rh+,Full,100,14-12-2022
+Wrocław,AB Rh-,Full,100,14-12-2022
+Zielona Góra,0 Rh+,Full,100,14-12-2022
+Zielona Góra,0 Rh-,Very low,5,14-12-2022
+Zielona Góra,A Rh+,Full,100,14-12-2022
+Zielona Góra,A Rh-,Very low,5,14-12-2022
+Zielona Góra,B Rh+,Full,100,14-12-2022
+Zielona Góra,B Rh-,Very low,5,14-12-2022
+Zielona Góra,AB Rh+,Optimal,90,14-12-2022
+Zielona Góra,AB Rh-,Very low,5,14-12-2022
