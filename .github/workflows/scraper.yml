@@ -1,8 +1,8 @@
 name: scraper
 
 on:
-  schedule:
-    - cron:  '53 23 * * *'
+#   schedule:
+#     - cron:  '53 23 * * *'
     
   workflow_dispatch:
 
